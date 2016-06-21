@@ -1,0 +1,34 @@
+Null Hypothesis: ERUS10 has a unit root,,,,
+Exogenous: Constant,,,,
+"Lag Length: 0 (Automatic - based on SIC, maxlag=17)",,,,
+,,,,
+,,,t-Statistic,  Prob.*
+,,,,
+Augmented Dickey-Fuller test statistic,,,-17.08363, 0.0000
+Test critical values:,1% level,,-3.445852,
+,5% level,,-2.868268,
+,10% level,,-2.570419,
+,,,,
+*MacKinnon (1996) one-sided p-values.,,,,
+,,,,
+,,,,
+Augmented Dickey-Fuller Test Equation,,,,
+Dependent Variable: D(ERUS10),,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 18:01,,,,
+Sample (adjusted): 1980M11 2015M06,,,,
+Included observations: 416 after adjustments,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+ERUS10(-1),-0.827006,0.048409,-17.08363,0.0000
+C,0.758241,0.280748,2.700787,0.0072
+,,,,
+R-squared,0.413474,    Mean dependent var,,-0.001611
+Adjusted R-squared,0.412057,    S.D. dependent var,,7.373537
+S.E. of regression,5.653841,    Akaike info criterion,,6.307343
+Sum squared resid,13233.89,    Schwarz criterion,,6.326722
+Log likelihood,-1309.927,    Hannan-Quinn criter.,,6.315005
+F-statistic,291.8505,    Durbin-Watson stat,,1.977879
+Prob(F-statistic),0.000000,,,
+,,,,

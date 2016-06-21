@@ -1,0 +1,29 @@
+Heteroskedasticity Test: White,,,,
+,,,,
+F-statistic,45.79799,"    Prob. F(3,413)",,0.0000
+Obs*R-squared,104.0951,    Prob. Chi-Square(3),,0.0000
+Scaled explained SS,165.8646,    Prob. Chi-Square(3),,0.0000
+,,,,
+,,,,
+Test Equation:,,,,
+Dependent Variable: RESID^2,,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 22:19,,,,
+Sample: 1980M10 2015M06,,,,
+Included observations: 417,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+C,1.030096,0.150185,6.858845,0.0000
+RMRF^2,-0.002660,0.003230,-0.823576,0.4107
+SMB^2,0.049230,0.005974,8.240727,0.0000
+HML^2,0.026212,0.007257,3.612155,0.0003
+,,,,
+R-squared,0.249628,    Mean dependent var,,1.643247
+Adjusted R-squared,0.244178,    S.D. dependent var,,2.965425
+S.E. of regression,2.578083,    Akaike info criterion,,4.741515
+Sum squared resid,2745.009,    Schwarz criterion,,4.780202
+Log likelihood,-984.6059,    Hannan-Quinn criter.,,4.756810
+F-statistic,45.79799,    Durbin-Watson stat,,1.909067
+Prob(F-statistic),0.000000,,,
+,,,,

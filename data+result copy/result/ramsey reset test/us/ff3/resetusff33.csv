@@ -1,0 +1,48 @@
+Ramsey RESET Test,,,,
+Equation: US3EQ3,,,,
+Specification: ERUS3 C RMRF SMB HML,,,,
+Omitted Variables: Powers of fitted values from 2 to 5,,,,
+,,,,
+,Value,df,Probability,
+F-statistic, 6.454635,"(4, 409)", 0.0000,
+Likelihood ratio, 25.52609, 4, 0.0000,
+,,,,
+F-test summary:,,,,
+,Sum of Sq.,df,Mean Squares,
+Test SSR, 40.68765, 4, 10.17191,
+Restricted SSR, 685.2341, 413, 1.659162,
+Unrestricted SSR, 644.5464, 409, 1.575908,
+Unrestricted SSR, 644.5464, 409, 1.575908,
+,,,,
+LR test summary:,,,,
+,Value,df,,
+Restricted LogL,-695.2539, 413,,
+Unrestricted LogL,-682.4909, 409,,
+,,,,
+,,,,
+Unrestricted Test Equation:,,,,
+Dependent Variable: ERUS3,,,,
+Method: Least Squares,,,,
+Date: 04/26/16   Time: 16:14,,,,
+Sample: 1980M10 2015M06,,,,
+Included observations: 417,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+C,0.032169,0.081397,0.395212,0.6929
+RMRF,0.891695,0.021321,41.82227,0.0000
+SMB,1.004223,0.028789,34.88160,0.0000
+HML,0.142893,0.022781,6.272441,0.0000
+FITTED^2,0.001786,0.002505,0.713082,0.4762
+FITTED^3,6.32E-05,0.000225,0.280195,0.7795
+FITTED^4,1.34E-05,7.76E-06,1.726317,0.0850
+FITTED^5,5.26E-07,4.01E-07,1.311316,0.1905
+,,,,
+R-squared,0.949244,    Mean dependent var,,0.855564
+Adjusted R-squared,0.948375,    S.D. dependent var,,5.525043
+S.E. of regression,1.255352,    Akaike info criterion,,3.311707
+Sum squared resid,644.5464,    Schwarz criterion,,3.389080
+Log likelihood,-682.4909,    Hannan-Quinn criter.,,3.342297
+F-statistic,1092.732,    Durbin-Watson stat,,2.129280
+Prob(F-statistic),0.000000,,,
+,,,,

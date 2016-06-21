@@ -1,0 +1,32 @@
+Null Hypothesis: ERUS23 has a unit root,,,,
+Exogenous: None,,,,
+"Lag Length: 0 (Automatic - based on SIC, maxlag=17)",,,,
+,,,,
+,,,t-Statistic,  Prob.*
+,,,,
+Augmented Dickey-Fuller test statistic,,,-18.86387, 0.0000
+Test critical values:,1% level,,-2.570533,
+,5% level,,-1.941587,
+,10% level,,-1.616188,
+,,,,
+*MacKinnon (1996) one-sided p-values.,,,,
+,,,,
+,,,,
+Augmented Dickey-Fuller Test Equation,,,,
+Dependent Variable: D(ERUS23),,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 18:01,,,,
+Sample (adjusted): 1980M11 2015M06,,,,
+Included observations: 416 after adjustments,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+ERUS23(-1),-0.922642,0.048911,-18.86387,0.0000
+,,,,
+R-squared,0.461627,    Mean dependent var,,-0.015312
+Adjusted R-squared,0.461627,    S.D. dependent var,,6.219037
+S.E. of regression,4.563151,    Akaike info criterion,,5.876305
+Sum squared resid,8641.273,    Schwarz criterion,,5.885994
+Log likelihood,-1221.271,    Hannan-Quinn criter.,,5.880136
+Durbin-Watson stat,1.973441,,,
+,,,,

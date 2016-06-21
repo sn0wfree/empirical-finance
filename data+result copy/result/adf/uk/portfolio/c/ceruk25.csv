@@ -1,0 +1,34 @@
+Null Hypothesis: ERUK25 has a unit root,,,,
+Exogenous: Constant,,,,
+"Lag Length: 0 (Automatic - based on SIC, maxlag=17)",,,,
+,,,,
+,,,t-Statistic,  Prob.*
+,,,,
+Augmented Dickey-Fuller test statistic,,,-18.38249, 0.0000
+Test critical values:,1% level,,-3.445852,
+,5% level,,-2.868268,
+,10% level,,-2.570419,
+,,,,
+*MacKinnon (1996) one-sided p-values.,,,,
+,,,,
+,,,,
+Augmented Dickey-Fuller Test Equation,,,,
+Dependent Variable: D(ERUK25),,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 18:07,,,,
+Sample (adjusted): 1980M11 2015M06,,,,
+Included observations: 416 after adjustments,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+ERUK25(-1),-0.899522,0.048934,-18.38249,0.0000
+C,0.005012,0.002919,1.717237,0.0867
+,,,,
+R-squared,0.449406,    Mean dependent var,,-0.000301
+Adjusted R-squared,0.448077,    S.D. dependent var,,0.079737
+S.E. of regression,0.059238,    Akaike info criterion,,-2.809723
+Sum squared resid,1.452767,    Schwarz criterion,,-2.790344
+Log likelihood,586.4223,    Hannan-Quinn criter.,,-2.802061
+F-statistic,337.9159,    Durbin-Watson stat,,1.993478
+Prob(F-statistic),0.000000,,,
+,,,,

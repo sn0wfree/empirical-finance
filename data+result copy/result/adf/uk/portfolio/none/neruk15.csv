@@ -1,0 +1,32 @@
+Null Hypothesis: ERUK15 has a unit root,,,,
+Exogenous: None,,,,
+"Lag Length: 0 (Automatic - based on SIC, maxlag=17)",,,,
+,,,,
+,,,t-Statistic,  Prob.*
+,,,,
+Augmented Dickey-Fuller test statistic,,,-17.71256, 0.0000
+Test critical values:,1% level,,-2.570533,
+,5% level,,-1.941587,
+,10% level,,-1.616188,
+,,,,
+*MacKinnon (1996) one-sided p-values.,,,,
+,,,,
+,,,,
+Augmented Dickey-Fuller Test Equation,,,,
+Dependent Variable: D(ERUK15),,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 18:07,,,,
+Sample (adjusted): 1980M11 2015M06,,,,
+Included observations: 416 after adjustments,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+ERUK15(-1),-0.860359,0.048573,-17.71256,0.0000
+,,,,
+R-squared,0.430519,    Mean dependent var,,-8.95E-05
+Adjusted R-squared,0.430519,    S.D. dependent var,,0.087925
+S.E. of regression,0.066352,    Akaike info criterion,,-2.585300
+Sum squared resid,1.827047,    Schwarz criterion,,-2.575610
+Log likelihood,538.7423,    Hannan-Quinn criter.,,-2.581469
+Durbin-Watson stat,1.989725,,,
+,,,,

@@ -1,0 +1,35 @@
+ 'if you set each portfolio as pi(i=1...n),and each factors"
+matrix (417,27) pr
+matrix (417,4) facrors
+matrix (4,27) beta
+matrix (4,417) gamma
+genr f1=rmrf
+genr f2=smb
+genr f3=umd
+genr f4=hml
+for !j=1 to 4
+    colplace(facrors,f{!j},{!j})
+next
+'start 1st step"
+
+For !i=1 to 27
+
+     coef(4) be
+   colplace(pr,p{!i},{!i})
+           ls p{!i}=c(1)+ be(1)*rmrf+be(2)*smb+be(3)*umd+be(4)*hml
+    equation eq1st{!i}.ls p{!i} c  rmrf  smb umd  hml
+        colplace(beta,be,{!i})
+next
+'1st step completed"
+'2nd step start"
+
+for !i=1 to 417
+      coef(4) ga
+  vector r=@rowextract(pr
+next 
+for !i=1 to 417
+    for !j=1 to 27
+    ls r =c(1)+ ga(1)*beta(1,{!j})+ga(2)*beta(2,{!j}+ga(3)*beta(3,{!j})+ga(4)*beta(4,{!j})
+next
+    colplace(gamma,ga,{!i})
+next

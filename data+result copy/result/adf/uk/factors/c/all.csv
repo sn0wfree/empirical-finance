@@ -1,0 +1,137 @@
+Null Hypothesis: RMRF has a unit root,,,,
+Exogenous: Constant,,,,
+"Lag Length: 0 (Automatic - based on SIC, maxlag=17)",,,,
+,,,,
+,,,t-Statistic,  Prob.*
+,,,,
+Augmented Dickey-Fuller test statistic,,,-20.07568, 0.0000
+Test critical values:,1% level,,-3.445852,
+,5% level,,-2.868268,
+,10% level,,-2.570419,
+,,,,
+*MacKinnon (1996) one-sided p-values.,,,,
+,,,,
+,,,,
+Augmented Dickey-Fuller Test Equation,,,,
+Dependent Variable: D(RMRF),,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 18:07,,,,
+Sample (adjusted): 1980M11 2015M06,,,,
+Included observations: 416 after adjustments,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+RMRF(-1),-0.987812,0.049204,-20.07568,0.0000
+C,0.005080,0.002227,2.280767,0.0231
+,,,,
+R-squared,0.493288,    Mean dependent var,,-0.000257
+Adjusted R-squared,0.492065,    S.D. dependent var,,0.063280
+S.E. of regression,0.045100,    Akaike info criterion,,-3.355087
+Sum squared resid,0.842069,    Schwarz criterion,,-3.335708
+Log likelihood,699.8580,    Hannan-Quinn criter.,,-3.347424
+F-statistic,403.0329,    Durbin-Watson stat,,1.992442
+Prob(F-statistic),0.000000,,,
+,,,,
+Null Hypothesis: SMB has a unit root,,,,
+Exogenous: Constant,,,,
+"Lag Length: 0 (Automatic - based on SIC, maxlag=17)",,,,
+,,,,
+,,,t-Statistic,  Prob.*
+,,,,
+Augmented Dickey-Fuller test statistic,,,-17.82302, 0.0000
+Test critical values:,1% level,,-3.445852,
+,5% level,,-2.868268,
+,10% level,,-2.570419,
+,,,,
+*MacKinnon (1996) one-sided p-values.,,,,
+,,,,
+,,,,
+Augmented Dickey-Fuller Test Equation,,,,
+Dependent Variable: D(SMB),,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 18:07,,,,
+Sample (adjusted): 1980M11 2015M06,,,,
+Included observations: 416 after adjustments,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+SMB(-1),-0.870828,0.048860,-17.82302,0.0000
+C,0.001366,0.001490,0.916688,0.3598
+,,,,
+R-squared,0.434163,    Mean dependent var,,0.000109
+Adjusted R-squared,0.432797,    S.D. dependent var,,0.040311
+S.E. of regression,0.030359,    Akaike info criterion,,-4.146648
+Sum squared resid,0.381572,    Schwarz criterion,,-4.127270
+Log likelihood,864.5029,    Hannan-Quinn criter.,,-4.138986
+F-statistic,317.6599,    Durbin-Watson stat,,1.999717
+Prob(F-statistic),0.000000,,,
+,,,,
+Null Hypothesis: HML has a unit root,,,,
+Exogenous: Constant,,,,
+"Lag Length: 0 (Automatic - based on SIC, maxlag=17)",,,,
+,,,,
+,,,t-Statistic,  Prob.*
+,,,,
+Augmented Dickey-Fuller test statistic,,,-14.90791, 0.0000
+Test critical values:,1% level,,-3.445852,
+,5% level,,-2.868268,
+,10% level,,-2.570419,
+,,,,
+*MacKinnon (1996) one-sided p-values.,,,,
+,,,,
+,,,,
+Augmented Dickey-Fuller Test Equation,,,,
+Dependent Variable: D(HML),,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 18:07,,,,
+Sample (adjusted): 1980M11 2015M06,,,,
+Included observations: 416 after adjustments,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+HML(-1),-0.692029,0.046420,-14.90791,0.0000
+C,0.002284,0.001488,1.535188,0.1255
+,,,,
+R-squared,0.349308,    Mean dependent var,,0.000147
+Adjusted R-squared,0.347736,    S.D. dependent var,,0.037393
+S.E. of regression,0.030199,    Akaike info criterion,,-4.157203
+Sum squared resid,0.377566,    Schwarz criterion,,-4.137824
+Log likelihood,866.6982,    Hannan-Quinn criter.,,-4.149541
+F-statistic,222.2457,    Durbin-Watson stat,,2.006741
+Prob(F-statistic),0.000000,,,
+,,,,
+Null Hypothesis: UMD has a unit root,,,,
+Exogenous: Constant,,,,
+"Lag Length: 0 (Automatic - based on SIC, maxlag=17)",,,,
+,,,,
+,,,t-Statistic,  Prob.*
+,,,,
+Augmented Dickey-Fuller test statistic,,,-15.07588, 0.0000
+Test critical values:,1% level,,-3.445852,
+,5% level,,-2.868268,
+,10% level,,-2.570419,
+,,,,
+*MacKinnon (1996) one-sided p-values.,,,,
+,,,,
+,,,,
+Augmented Dickey-Fuller Test Equation,,,,
+Dependent Variable: D(UMD),,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 18:07,,,,
+Sample (adjusted): 1980M11 2015M06,,,,
+Included observations: 416 after adjustments,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+UMD(-1),-0.708209,0.046976,-15.07588,0.0000
+C,0.006780,0.002060,3.290634,0.0011
+,,,,
+R-squared,0.354418,    Mean dependent var,,-9.26E-05
+Adjusted R-squared,0.352859,    S.D. dependent var,,0.050945
+S.E. of regression,0.040983,    Akaike info criterion,,-3.546529
+Sum squared resid,0.695352,    Schwarz criterion,,-3.527151
+Log likelihood,739.6781,    Hannan-Quinn criter.,,-3.538867
+F-statistic,227.2821,    Durbin-Watson stat,,1.942979
+Prob(F-statistic),0.000000,,,
+,,,,
+

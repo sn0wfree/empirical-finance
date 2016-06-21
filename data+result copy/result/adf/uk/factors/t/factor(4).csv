@@ -1,0 +1,35 @@
+Null Hypothesis: UMD has a unit root,,,,
+"Exogenous: Constant, Linear Trend",,,,
+"Lag Length: 0 (Automatic - based on SIC, maxlag=17)",,,,
+,,,,
+,,,t-Statistic,  Prob.*
+,,,,
+Augmented Dickey-Fuller test statistic,,,-15.05895, 0.0000
+Test critical values:,1% level,,-3.980272,
+,5% level,,-3.420662,
+,10% level,,-3.133035,
+,,,,
+*MacKinnon (1996) one-sided p-values.,,,,
+,,,,
+,,,,
+Augmented Dickey-Fuller Test Equation,,,,
+Dependent Variable: D(UMD),,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 18:07,,,,
+Sample (adjusted): 1980M11 2015M06,,,,
+Included observations: 416 after adjustments,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+UMD(-1),-0.708319,0.047036,-15.05895,0.0000
+C,0.007352,0.004062,1.809822,0.0711
+@TREND(1980M10),-2.74E-06,1.68E-05,-0.163471,0.8702
+,,,,
+R-squared,0.354460,    Mean dependent var,,-9.26E-05
+Adjusted R-squared,0.351334,    S.D. dependent var,,0.050945
+S.E. of regression,0.041031,    Akaike info criterion,,-3.541786
+Sum squared resid,0.695307,    Schwarz criterion,,-3.512719
+Log likelihood,739.6916,    Hannan-Quinn criter.,,-3.530293
+F-statistic,113.3872,    Durbin-Watson stat,,1.942906
+Prob(F-statistic),0.000000,,,
+,,,,

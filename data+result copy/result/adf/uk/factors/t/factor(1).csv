@@ -1,0 +1,35 @@
+Null Hypothesis: RMRF has a unit root,,,,
+"Exogenous: Constant, Linear Trend",,,,
+"Lag Length: 0 (Automatic - based on SIC, maxlag=17)",,,,
+,,,,
+,,,t-Statistic,  Prob.*
+,,,,
+Augmented Dickey-Fuller test statistic,,,-20.07152, 0.0000
+Test critical values:,1% level,,-3.980272,
+,5% level,,-3.420662,
+,10% level,,-3.133035,
+,,,,
+*MacKinnon (1996) one-sided p-values.,,,,
+,,,,
+,,,,
+Augmented Dickey-Fuller Test Equation,,,,
+Dependent Variable: D(RMRF),,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 18:07,,,,
+Sample (adjusted): 1980M11 2015M06,,,,
+Included observations: 416 after adjustments,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+RMRF(-1),-0.988759,0.049262,-20.07152,0.0000
+C,0.007544,0.004450,1.695241,0.0908
+@TREND(1980M10),-1.18E-05,1.84E-05,-0.639781,0.5227
+,,,,
+R-squared,0.493790,    Mean dependent var,,-0.000257
+Adjusted R-squared,0.491339,    S.D. dependent var,,0.063280
+S.E. of regression,0.045132,    Akaike info criterion,,-3.351269
+Sum squared resid,0.841235,    Schwarz criterion,,-3.322202
+Log likelihood,700.0640,    Hannan-Quinn criter.,,-3.339776
+F-statistic,201.4336,    Durbin-Watson stat,,1.992683
+Prob(F-statistic),0.000000,,,
+,,,,

@@ -1,0 +1,34 @@
+Null Hypothesis: ERUS24 has a unit root,,,,
+Exogenous: Constant,,,,
+"Lag Length: 0 (Automatic - based on SIC, maxlag=17)",,,,
+,,,,
+,,,t-Statistic,  Prob.*
+,,,,
+Augmented Dickey-Fuller test statistic,,,-18.81267, 0.0000
+Test critical values:,1% level,,-3.445852,
+,5% level,,-2.868268,
+,10% level,,-2.570419,
+,,,,
+*MacKinnon (1996) one-sided p-values.,,,,
+,,,,
+,,,,
+Augmented Dickey-Fuller Test Equation,,,,
+Dependent Variable: D(ERUS24),,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 18:01,,,,
+Sample (adjusted): 1980M11 2015M06,,,,
+Included observations: 416 after adjustments,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+ERUS24(-1),-0.921554,0.048986,-18.81267,0.0000
+C,0.565810,0.214692,2.635454,0.0087
+,,,,
+R-squared,0.460879,    Mean dependent var,,0.001226
+Adjusted R-squared,0.459577,    S.D. dependent var,,5.898071
+S.E. of regression,4.335878,    Akaike info criterion,,5.776521
+Sum squared resid,7783.132,    Schwarz criterion,,5.795900
+Log likelihood,-1199.516,    Hannan-Quinn criter.,,5.784183
+F-statistic,353.9166,    Durbin-Watson stat,,1.995963
+Prob(F-statistic),0.000000,,,
+,,,,

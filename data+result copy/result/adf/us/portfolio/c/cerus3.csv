@@ -1,0 +1,34 @@
+Null Hypothesis: ERUS3 has a unit root,,,,
+Exogenous: Constant,,,,
+"Lag Length: 0 (Automatic - based on SIC, maxlag=17)",,,,
+,,,,
+,,,t-Statistic,  Prob.*
+,,,,
+Augmented Dickey-Fuller test statistic,,,-17.27612, 0.0000
+Test critical values:,1% level,,-3.445852,
+,5% level,,-2.868268,
+,10% level,,-2.570419,
+,,,,
+*MacKinnon (1996) one-sided p-values.,,,,
+,,,,
+,,,,
+Augmented Dickey-Fuller Test Equation,,,,
+Dependent Variable: D(ERUS3),,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 18:01,,,,
+Sample (adjusted): 1980M11 2015M06,,,,
+Included observations: 416 after adjustments,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+ERUS3(-1),-0.837635,0.048485,-17.27612,0.0000
+C,0.711110,0.271048,2.623562,0.0090
+,,,,
+R-squared,0.418918,    Mean dependent var,,-0.003558
+Adjusted R-squared,0.417515,    S.D. dependent var,,7.158662
+S.E. of regression,5.463543,    Akaike info criterion,,6.238868
+Sum squared resid,12358.02,    Schwarz criterion,,6.258246
+Log likelihood,-1295.685,    Hannan-Quinn criter.,,6.246530
+F-statistic,298.4643,    Durbin-Watson stat,,1.998423
+Prob(F-statistic),0.000000,,,
+,,,,

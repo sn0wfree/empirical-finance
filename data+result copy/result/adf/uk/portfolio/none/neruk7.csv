@@ -1,0 +1,32 @@
+Null Hypothesis: ERUK7 has a unit root,,,,
+Exogenous: None,,,,
+"Lag Length: 0 (Automatic - based on SIC, maxlag=17)",,,,
+,,,,
+,,,t-Statistic,  Prob.*
+,,,,
+Augmented Dickey-Fuller test statistic,,,-16.72682, 0.0000
+Test critical values:,1% level,,-2.570533,
+,5% level,,-1.941587,
+,10% level,,-1.616188,
+,,,,
+*MacKinnon (1996) one-sided p-values.,,,,
+,,,,
+,,,,
+Augmented Dickey-Fuller Test Equation,,,,
+Dependent Variable: D(ERUK7),,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 18:07,,,,
+Sample (adjusted): 1980M11 2015M06,,,,
+Included observations: 416 after adjustments,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+ERUK7(-1),-0.805478,0.048155,-16.72682,0.0000
+,,,,
+R-squared,0.402694,    Mean dependent var,,-4.98E-05
+Adjusted R-squared,0.402694,    S.D. dependent var,,0.074236
+S.E. of regression,0.057373,    Akaike info criterion,,-2.876068
+Sum squared resid,1.366062,    Schwarz criterion,,-2.866379
+Log likelihood,599.2222,    Hannan-Quinn criter.,,-2.872237
+Durbin-Watson stat,1.989239,,,
+,,,,

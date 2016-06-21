@@ -1,0 +1,34 @@
+Null Hypothesis: ERUK23 has a unit root,,,,
+Exogenous: Constant,,,,
+"Lag Length: 0 (Automatic - based on SIC, maxlag=17)",,,,
+,,,,
+,,,t-Statistic,  Prob.*
+,,,,
+Augmented Dickey-Fuller test statistic,,,-21.77068, 0.0000
+Test critical values:,1% level,,-3.445852,
+,5% level,,-2.868268,
+,10% level,,-2.570419,
+,,,,
+*MacKinnon (1996) one-sided p-values.,,,,
+,,,,
+,,,,
+Augmented Dickey-Fuller Test Equation,,,,
+Dependent Variable: D(ERUK23),,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 18:07,,,,
+Sample (adjusted): 1980M11 2015M06,,,,
+Included observations: 416 after adjustments,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+ERUK23(-1),-1.070365,0.049165,-21.77068,0.0000
+C,0.004793,0.002236,2.143607,0.0326
+,,,,
+R-squared,0.533764,    Mean dependent var,,-0.000208
+Adjusted R-squared,0.532638,    S.D. dependent var,,0.066357
+S.E. of regression,0.045364,    Akaike info criterion,,-3.343381
+Sum squared resid,0.851983,    Schwarz criterion,,-3.324003
+Log likelihood,697.4233,    Hannan-Quinn criter.,,-3.335719
+F-statistic,473.9623,    Durbin-Watson stat,,2.001271
+Prob(F-statistic),0.000000,,,
+,,,,

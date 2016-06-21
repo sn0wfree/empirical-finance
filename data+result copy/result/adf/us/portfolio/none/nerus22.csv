@@ -1,0 +1,32 @@
+Null Hypothesis: ERUS22 has a unit root,,,,
+Exogenous: None,,,,
+"Lag Length: 0 (Automatic - based on SIC, maxlag=17)",,,,
+,,,,
+,,,t-Statistic,  Prob.*
+,,,,
+Augmented Dickey-Fuller test statistic,,,-19.28797, 0.0000
+Test critical values:,1% level,,-2.570533,
+,5% level,,-1.941587,
+,10% level,,-1.616188,
+,,,,
+*MacKinnon (1996) one-sided p-values.,,,,
+,,,,
+,,,,
+Augmented Dickey-Fuller Test Equation,,,,
+Dependent Variable: D(ERUS22),,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 18:01,,,,
+Sample (adjusted): 1980M11 2015M06,,,,
+Included observations: 416 after adjustments,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+ERUS22(-1),-0.945355,0.049013,-19.28797,0.0000
+,,,,
+R-squared,0.472696,    Mean dependent var,,-0.014712
+Adjusted R-squared,0.472696,    S.D. dependent var,,6.323195
+S.E. of regression,4.591635,    Akaike info criterion,,5.888750
+Sum squared resid,8749.490,    Schwarz criterion,,5.898439
+Log likelihood,-1223.860,    Hannan-Quinn criter.,,5.892581
+Durbin-Watson stat,1.985732,,,
+,,,,

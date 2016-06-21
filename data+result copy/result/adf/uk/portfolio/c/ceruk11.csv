@@ -1,0 +1,34 @@
+Null Hypothesis: ERUK11 has a unit root,,,,
+Exogenous: Constant,,,,
+"Lag Length: 0 (Automatic - based on SIC, maxlag=17)",,,,
+,,,,
+,,,t-Statistic,  Prob.*
+,,,,
+Augmented Dickey-Fuller test statistic,,,-18.45447, 0.0000
+Test critical values:,1% level,,-3.445852,
+,5% level,,-2.868268,
+,10% level,,-2.570419,
+,,,,
+*MacKinnon (1996) one-sided p-values.,,,,
+,,,,
+,,,,
+Augmented Dickey-Fuller Test Equation,,,,
+Dependent Variable: D(ERUK11),,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 18:07,,,,
+Sample (adjusted): 1980M11 2015M06,,,,
+Included observations: 416 after adjustments,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+ERUK11(-1),-0.904362,0.049005,-18.45447,0.0000
+C,0.006016,0.003613,1.664841,0.0967
+,,,,
+R-squared,0.451341,    Mean dependent var,,-0.000237
+Adjusted R-squared,0.450016,    S.D. dependent var,,0.098936
+S.E. of regression,0.073372,    Akaike info criterion,,-2.381751
+Sum squared resid,2.228753,    Schwarz criterion,,-2.362372
+Log likelihood,497.4041,    Hannan-Quinn criter.,,-2.374089
+F-statistic,340.5675,    Durbin-Watson stat,,1.976537
+Prob(F-statistic),0.000000,,,
+,,,,

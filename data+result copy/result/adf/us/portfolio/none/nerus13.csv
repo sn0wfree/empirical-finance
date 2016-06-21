@@ -1,0 +1,32 @@
+Null Hypothesis: ERUS13 has a unit root,,,,
+Exogenous: None,,,,
+"Lag Length: 0 (Automatic - based on SIC, maxlag=17)",,,,
+,,,,
+,,,t-Statistic,  Prob.*
+,,,,
+Augmented Dickey-Fuller test statistic,,,-17.76753, 0.0000
+Test critical values:,1% level,,-2.570533,
+,5% level,,-1.941587,
+,10% level,,-1.616188,
+,,,,
+*MacKinnon (1996) one-sided p-values.,,,,
+,,,,
+,,,,
+Augmented Dickey-Fuller Test Equation,,,,
+Dependent Variable: D(ERUS13),,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 18:01,,,,
+Sample (adjusted): 1980M11 2015M06,,,,
+Included observations: 416 after adjustments,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+ERUS13(-1),-0.863932,0.048624,-17.76753,0.0000
+,,,,
+R-squared,0.432039,    Mean dependent var,,-0.007837
+Adjusted R-squared,0.432039,    S.D. dependent var,,6.430188
+S.E. of regression,4.845994,    Akaike info criterion,,5.996583
+Sum squared resid,9745.717,    Schwarz criterion,,6.006272
+Log likelihood,-1246.289,    Hannan-Quinn criter.,,6.000414
+Durbin-Watson stat,1.996701,,,
+,,,,

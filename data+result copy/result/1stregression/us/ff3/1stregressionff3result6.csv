@@ -1,0 +1,21 @@
+Dependent Variable: ERUS6,,,,
+Method: Least Squares,,,,
+Date: 04/24/16   Time: 22:12,,,,
+Sample: 1980M10 2015M06,,,,
+Included observations: 417,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+C,-0.208234,0.068894,-3.022514,0.0027
+RMRF,1.104326,0.016205,68.14557,0.0000
+SMB,0.991582,0.023684,41.86801,0.0000
+HML,-0.494765,0.023931,-20.67476,0.0000
+,,,,
+R-squared,0.961923,    Mean dependent var,,0.455108
+Adjusted R-squared,0.961646,    S.D. dependent var,,7.019047
+S.E. of regression,1.374623,    Akaike info criterion,,3.483782
+Sum squared resid,780.3998,    Schwarz criterion,,3.522469
+Log likelihood,-722.3685,    Hannan-Quinn criter.,,3.499077
+F-statistic,3477.775,    Durbin-Watson stat,,1.974706
+Prob(F-statistic),0.000000,,,
+,,,,

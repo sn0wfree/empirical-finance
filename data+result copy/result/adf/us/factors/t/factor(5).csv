@@ -1,0 +1,35 @@
+Null Hypothesis: RMW has a unit root,,,,
+"Exogenous: Constant, Linear Trend",,,,
+"Lag Length: 0 (Automatic - based on SIC, maxlag=17)",,,,
+,,,,
+,,,t-Statistic,  Prob.*
+,,,,
+Augmented Dickey-Fuller test statistic,,,-17.23107, 0.0000
+Test critical values:,1% level,,-3.980272,
+,5% level,,-3.420662,
+,10% level,,-3.133035,
+,,,,
+*MacKinnon (1996) one-sided p-values.,,,,
+,,,,
+,,,,
+Augmented Dickey-Fuller Test Equation,,,,
+Dependent Variable: D(RMW),,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 18:01,,,,
+Sample (adjusted): 1980M11 2015M06,,,,
+Included observations: 416 after adjustments,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+RMW(-1),-0.836409,0.048541,-17.23107,0.0000
+C,0.377560,0.228710,1.650821,0.0995
+@TREND(1980M10),-0.000375,0.000946,-0.396625,0.6918
+,,,,
+R-squared,0.418239,    Mean dependent var,,-0.000889
+Adjusted R-squared,0.415422,    S.D. dependent var,,3.030060
+S.E. of regression,2.316714,    Akaike info criterion,,4.525362
+Sum squared resid,2216.639,    Schwarz criterion,,4.554430
+Log likelihood,-938.2754,    Hannan-Quinn criter.,,4.536856
+F-statistic,148.4568,    Durbin-Watson stat,,1.994868
+Prob(F-statistic),0.000000,,,
+,,,,

@@ -1,0 +1,34 @@
+Null Hypothesis: ERUS9 has a unit root,,,,
+Exogenous: Constant,,,,
+"Lag Length: 0 (Automatic - based on SIC, maxlag=17)",,,,
+,,,,
+,,,t-Statistic,  Prob.*
+,,,,
+Augmented Dickey-Fuller test statistic,,,-18.11727, 0.0000
+Test critical values:,1% level,,-3.445852,
+,5% level,,-2.868268,
+,10% level,,-2.570419,
+,,,,
+*MacKinnon (1996) one-sided p-values.,,,,
+,,,,
+,,,,
+Augmented Dickey-Fuller Test Equation,,,,
+Dependent Variable: D(ERUS9),,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 18:01,,,,
+Sample (adjusted): 1980M11 2015M06,,,,
+Included observations: 416 after adjustments,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+ERUS9(-1),-0.884363,0.048813,-18.11727,0.0000
+C,0.854079,0.250285,3.412426,0.0007
+,,,,
+R-squared,0.442226,    Mean dependent var,,-0.004880
+Adjusted R-squared,0.440878,    S.D. dependent var,,6.703373
+S.E. of regression,5.012409,    Akaike info criterion,,6.066506
+Sum squared resid,10401.44,    Schwarz criterion,,6.085885
+Log likelihood,-1259.833,    Hannan-Quinn criter.,,6.074169
+F-statistic,328.2356,    Durbin-Watson stat,,1.983716
+Prob(F-statistic),0.000000,,,
+,,,,

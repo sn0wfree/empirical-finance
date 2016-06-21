@@ -1,0 +1,32 @@
+Null Hypothesis: ERUS12 has a unit root,,,,
+Exogenous: None,,,,
+"Lag Length: 0 (Automatic - based on SIC, maxlag=17)",,,,
+,,,,
+,,,t-Statistic,  Prob.*
+,,,,
+Augmented Dickey-Fuller test statistic,,,-17.54798, 0.0000
+Test critical values:,1% level,,-2.570533,
+,5% level,,-1.941587,
+,10% level,,-1.616188,
+,,,,
+*MacKinnon (1996) one-sided p-values.,,,,
+,,,,
+,,,,
+Augmented Dickey-Fuller Test Equation,,,,
+Dependent Variable: D(ERUS12),,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 18:01,,,,
+Sample (adjusted): 1980M11 2015M06,,,,
+Included observations: 416 after adjustments,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+ERUS12(-1),-0.851846,0.048544,-17.54798,0.0000
+,,,,
+R-squared,0.425948,    Mean dependent var,,-0.001418
+Adjusted R-squared,0.425948,    S.D. dependent var,,7.050189
+S.E. of regression,5.341660,    Akaike info criterion,,6.191351
+Sum squared resid,11841.33,    Schwarz criterion,,6.201040
+Log likelihood,-1286.801,    Hannan-Quinn criter.,,6.195182
+Durbin-Watson stat,1.990986,,,
+,,,,

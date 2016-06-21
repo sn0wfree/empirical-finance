@@ -1,0 +1,34 @@
+Null Hypothesis: SMB has a unit root,,,,
+Exogenous: Constant,,,,
+"Lag Length: 0 (Automatic - based on SIC, maxlag=17)",,,,
+,,,,
+,,,t-Statistic,  Prob.*
+,,,,
+Augmented Dickey-Fuller test statistic,,,-20.60134, 0.0000
+Test critical values:,1% level,,-3.445852,
+,5% level,,-2.868268,
+,10% level,,-2.570419,
+,,,,
+*MacKinnon (1996) one-sided p-values.,,,,
+,,,,
+,,,,
+Augmented Dickey-Fuller Test Equation,,,,
+Dependent Variable: D(SMB),,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 18:01,,,,
+Sample (adjusted): 1980M11 2015M06,,,,
+Included observations: 416 after adjustments,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+SMB(-1),-1.012785,0.049161,-20.60134,0.0000
+C,0.125998,0.144393,0.872606,0.3834
+,,,,
+R-squared,0.506211,    Mean dependent var,,0.001250
+Adjusted R-squared,0.505019,    S.D. dependent var,,4.182296
+S.E. of regression,2.942451,    Akaike info criterion,,5.001159
+Sum squared resid,3584.419,    Schwarz criterion,,5.020537
+Log likelihood,-1038.241,    Hannan-Quinn criter.,,5.008821
+F-statistic,424.4154,    Durbin-Watson stat,,1.988616
+Prob(F-statistic),0.000000,,,
+,,,,

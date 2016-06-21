@@ -1,0 +1,35 @@
+Null Hypothesis: ERUS16 has a unit root,,,,
+"Exogenous: Constant, Linear Trend",,,,
+"Lag Length: 0 (Automatic - based on SIC, maxlag=17)",,,,
+,,,,
+,,,t-Statistic,  Prob.*
+,,,,
+Augmented Dickey-Fuller test statistic,,,-18.98151, 0.0000
+Test critical values:,1% level,,-3.980272,
+,5% level,,-3.420662,
+,10% level,,-3.133035,
+,,,,
+*MacKinnon (1996) one-sided p-values.,,,,
+,,,,
+,,,,
+Augmented Dickey-Fuller Test Equation,,,,
+Dependent Variable: D(ERUS16),,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 18:01,,,,
+Sample (adjusted): 1980M11 2015M06,,,,
+Included observations: 416 after adjustments,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+ERUS16(-1),-0.931961,0.049098,-18.98151,0.0000
+C,0.368220,0.582691,0.631930,0.5278
+@TREND(1980M10),0.001637,0.002422,0.675922,0.4995
+,,,,
+R-squared,0.465924,    Mean dependent var,,-0.005505
+Adjusted R-squared,0.463337,    S.D. dependent var,,8.092504
+S.E. of regression,5.928346,    Akaike info criterion,,6.404553
+Sum squared resid,14515.01,    Schwarz criterion,,6.433621
+Log likelihood,-1329.147,    Hannan-Quinn criter.,,6.416046
+F-statistic,180.1489,    Durbin-Watson stat,,1.987938
+Prob(F-statistic),0.000000,,,
+,,,,

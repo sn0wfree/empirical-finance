@@ -1,0 +1,32 @@
+Null Hypothesis: ERUS20 has a unit root,,,,
+Exogenous: None,,,,
+"Lag Length: 0 (Automatic - based on SIC, maxlag=17)",,,,
+,,,,
+,,,t-Statistic,  Prob.*
+,,,,
+Augmented Dickey-Fuller test statistic,,,-17.11766, 0.0000
+Test critical values:,1% level,,-2.570533,
+,5% level,,-1.941587,
+,10% level,,-1.616188,
+,,,,
+*MacKinnon (1996) one-sided p-values.,,,,
+,,,,
+,,,,
+Augmented Dickey-Fuller Test Equation,,,,
+Dependent Variable: D(ERUS20),,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 18:01,,,,
+Sample (adjusted): 1980M11 2015M06,,,,
+Included observations: 416 after adjustments,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+ERUS20(-1),-0.827859,0.048363,-17.11766,0.0000
+,,,,
+R-squared,0.413853,    Mean dependent var,,-0.002500
+Adjusted R-squared,0.413853,    S.D. dependent var,,6.677055
+S.E. of regression,5.111967,    Akaike info criterion,,6.103446
+Sum squared resid,10844.86,    Schwarz criterion,,6.113136
+Log likelihood,-1268.517,    Hannan-Quinn criter.,,6.107278
+Durbin-Watson stat,1.989260,,,
+,,,,

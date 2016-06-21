@@ -1,0 +1,32 @@
+Null Hypothesis: HML has a unit root,,,,
+Exogenous: None,,,,
+"Lag Length: 0 (Automatic - based on SIC, maxlag=17)",,,,
+,,,,
+,,,t-Statistic,  Prob.*
+,,,,
+Augmented Dickey-Fuller test statistic,,,-17.51056, 0.0000
+Test critical values:,1% level,,-2.570533,
+,5% level,,-1.941587,
+,10% level,,-1.616188,
+,,,,
+*MacKinnon (1996) one-sided p-values.,,,,
+,,,,
+,,,,
+Augmented Dickey-Fuller Test Equation,,,,
+Dependent Variable: D(HML),,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 18:01,,,,
+Sample (adjusted): 1980M11 2015M06,,,,
+Included observations: 416 after adjustments,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+HML(-1),-0.848954,0.048482,-17.51056,0.0000
+,,,,
+R-squared,0.424904,    Mean dependent var,,0.004159
+Adjusted R-squared,0.424904,    S.D. dependent var,,3.968552
+S.E. of regression,3.009554,    Akaike info criterion,,5.043862
+Sum squared resid,3758.827,    Schwarz criterion,,5.053551
+Log likelihood,-1048.123,    Hannan-Quinn criter.,,5.047693
+Durbin-Watson stat,1.995383,,,
+,,,,

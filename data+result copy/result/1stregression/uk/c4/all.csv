@@ -1,0 +1,551 @@
+Dependent Variable: ERUK1,,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 02:13,,,,
+Sample: 1980M10 2015M06,,,,
+Included observations: 417,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+C,0.002882,0.001574,1.831637,0.0677
+RMRF,0.906230,0.032984,27.47466,0.0000
+SMB,1.148068,0.048611,23.61738,0.0000
+UMD,-0.235891,0.040864,-5.772638,0.0000
+HML,0.290394,0.054245,5.353357,0.0000
+,,,,
+R-squared,0.789751,    Mean dependent var,,0.008020
+Adjusted R-squared,0.787710,    S.D. dependent var,,0.065089
+S.E. of regression,0.029990,    Akaike info criterion,,-4.164019
+Sum squared resid,0.370541,    Schwarz criterion,,-4.115660
+Log likelihood,873.1979,    Hannan-Quinn criter.,,-4.144900
+F-statistic,386.8948,    Durbin-Watson stat,,2.079169
+Prob(F-statistic),0.000000,,,
+,,,,
+Dependent Variable: ERUK10,,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 02:13,,,,
+Sample: 1980M10 2015M06,,,,
+Included observations: 417,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+C,0.001547,0.001625,0.952537,0.3414
+RMRF,1.036217,0.034053,30.42964,0.0000
+SMB,0.780767,0.050186,15.55741,0.0000
+UMD,-0.092036,0.042188,-2.181581,0.0297
+HML,-0.205887,0.056003,-3.676378,0.0003
+,,,,
+R-squared,0.748911,    Mean dependent var,,0.006677
+Adjusted R-squared,0.746474,    S.D. dependent var,,0.061490
+S.E. of regression,0.030961,    Akaike info criterion,,-4.100247
+Sum squared resid,0.394941,    Schwarz criterion,,-4.051889
+Log likelihood,859.9015,    Hannan-Quinn criter.,,-4.081128
+F-statistic,307.2138,    Durbin-Watson stat,,1.957350
+Prob(F-statistic),0.000000,,,
+,,,,
+Dependent Variable: ERUK11,,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 02:13,,,,
+Sample: 1980M10 2015M06,,,,
+Included observations: 417,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+C,0.001359,0.001817,0.748032,0.4549
+RMRF,1.153755,0.038088,30.29144,0.0000
+SMB,0.989201,0.056134,17.62223,0.0000
+UMD,-0.309042,0.047187,-6.549276,0.0000
+HML,0.245196,0.062640,3.914384,0.0001
+,,,,
+R-squared,0.780341,    Mean dependent var,,0.006704
+Adjusted R-squared,0.778209,    S.D. dependent var,,0.073533
+S.E. of regression,0.034630,    Akaike info criterion,,-3.876253
+Sum squared resid,0.494096,    Schwarz criterion,,-3.827895
+Log likelihood,813.1987,    Hannan-Quinn criter.,,-3.857134
+F-statistic,365.9094,    Durbin-Watson stat,,2.187398
+Prob(F-statistic),0.000000,,,
+,,,,
+Dependent Variable: ERUK12,,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 02:13,,,,
+Sample: 1980M10 2015M06,,,,
+Included observations: 417,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+C,0.002317,0.001347,1.719453,0.0863
+RMRF,0.959289,0.028244,33.96461,0.0000
+SMB,0.752000,0.041625,18.06613,0.0000
+UMD,-0.112166,0.034991,-3.205583,0.0015
+HML,0.273797,0.046449,5.894536,0.0000
+,,,,
+R-squared,0.800711,    Mean dependent var,,0.008268
+Adjusted R-squared,0.798776,    S.D. dependent var,,0.057246
+S.E. of regression,0.025679,    Akaike info criterion,,-4.474331
+Sum squared resid,0.271687,    Schwarz criterion,,-4.425973
+Log likelihood,937.8981,    Hannan-Quinn criter.,,-4.455212
+F-statistic,413.8363,    Durbin-Watson stat,,2.159293
+Prob(F-statistic),0.000000,,,
+,,,,
+Dependent Variable: ERUK13,,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 02:13,,,,
+Sample: 1980M10 2015M06,,,,
+Included observations: 417,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+C,0.001799,0.001292,1.392611,0.1645
+RMRF,1.000956,0.027078,36.96552,0.0000
+SMB,0.575571,0.039907,14.42283,0.0000
+UMD,-0.050953,0.033547,-1.518866,0.1296
+HML,0.186351,0.044532,4.184629,0.0000
+,,,,
+R-squared,0.802654,    Mean dependent var,,0.008021
+Adjusted R-squared,0.800738,    S.D. dependent var,,0.055153
+S.E. of regression,0.024620,    Akaike info criterion,,-4.558626
+Sum squared resid,0.249724,    Schwarz criterion,,-4.510268
+Log likelihood,955.4735,    Hannan-Quinn criter.,,-4.539507
+F-statistic,418.9252,    Durbin-Watson stat,,1.920825
+Prob(F-statistic),0.000000,,,
+,,,,
+Dependent Variable: ERUK14,,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 02:13,,,,
+Sample: 1980M10 2015M06,,,,
+Included observations: 417,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+C,-0.001693,0.001350,-1.254298,0.2104
+RMRF,1.111655,0.028297,39.28503,0.0000
+SMB,0.757064,0.041704,18.15347,0.0000
+UMD,-0.171262,0.035057,-4.885254,0.0000
+HML,0.038759,0.046537,0.832869,0.4054
+,,,,
+R-squared,0.831547,    Mean dependent var,,0.003775
+Adjusted R-squared,0.829912,    S.D. dependent var,,0.062384
+S.E. of regression,0.025728,    Akaike info criterion,,-4.470553
+Sum squared resid,0.272716,    Schwarz criterion,,-4.422195
+Log likelihood,937.1103,    Hannan-Quinn criter.,,-4.451434
+F-statistic,508.4482,    Durbin-Watson stat,,1.690580
+Prob(F-statistic),0.000000,,,
+,,,,
+Dependent Variable: ERUK15,,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 02:13,,,,
+Sample: 1980M10 2015M06,,,,
+Included observations: 417,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+C,0.000720,0.001754,0.410614,0.6816
+RMRF,1.128137,0.036774,30.67757,0.0000
+SMB,0.808254,0.054196,14.91341,0.0000
+UMD,0.039340,0.045559,0.863494,0.3884
+HML,-0.410352,0.060478,-6.785160,0.0000
+,,,,
+R-squared,0.750449,    Mean dependent var,,0.007024
+Adjusted R-squared,0.748026,    S.D. dependent var,,0.066608
+S.E. of regression,0.033435,    Akaike info criterion,,-3.946495
+Sum squared resid,0.460581,    Schwarz criterion,,-3.898136
+Log likelihood,827.8442,    Hannan-Quinn criter.,,-3.927376
+F-statistic,309.7414,    Durbin-Watson stat,,1.771235
+Prob(F-statistic),0.000000,,,
+,,,,
+Dependent Variable: ERUK16,,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 02:13,,,,
+Sample: 1980M10 2015M06,,,,
+Included observations: 417,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+C,-0.000489,0.001747,-0.279904,0.7797
+RMRF,1.174340,0.036617,32.07100,0.0000
+SMB,0.530739,0.053965,9.834895,0.0000
+UMD,-0.248678,0.045364,-5.481833,0.0000
+HML,0.309098,0.060219,5.132862,0.0000
+,,,,
+R-squared,0.766077,    Mean dependent var,,0.005033
+Adjusted R-squared,0.763806,    S.D. dependent var,,0.068503
+S.E. of regression,0.033292,    Akaike info criterion,,-3.955058
+Sum squared resid,0.456654,    Schwarz criterion,,-3.906700
+Log likelihood,829.6297,    Hannan-Quinn criter.,,-3.935939
+F-statistic,337.3151,    Durbin-Watson stat,,1.832492
+Prob(F-statistic),0.000000,,,
+,,,,
+Dependent Variable: ERUK17,,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 02:13,,,,
+Sample: 1980M10 2015M06,,,,
+Included observations: 417,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+C,0.001570,0.001447,1.084910,0.2786
+RMRF,1.048466,0.030332,34.56629,0.0000
+SMB,0.518797,0.044702,11.60554,0.0000
+UMD,-0.231442,0.037578,-6.158991,0.0000
+HML,0.242405,0.049884,4.859417,0.0000
+,,,,
+R-squared,0.793465,    Mean dependent var,,0.006376
+Adjusted R-squared,0.791460,    S.D. dependent var,,0.060391
+S.E. of regression,0.027578,    Akaike info criterion,,-4.331667
+Sum squared resid,0.313349,    Schwarz criterion,,-4.283309
+Log likelihood,908.1527,    Hannan-Quinn criter.,,-4.312549
+F-statistic,395.7046,    Durbin-Watson stat,,2.114094
+Prob(F-statistic),0.000000,,,
+,,,,
+Dependent Variable: ERUK18,,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 02:13,,,,
+Sample: 1980M10 2015M06,,,,
+Included observations: 417,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+C,0.001424,0.001313,1.083930,0.2790
+RMRF,1.099010,0.027531,39.91876,0.0000
+SMB,0.395339,0.040575,9.743489,0.0000
+UMD,-0.090052,0.034108,-2.640215,0.0086
+HML,0.178956,0.045277,3.952447,0.0001
+,,,,
+R-squared,0.815669,    Mean dependent var,,0.007480
+Adjusted R-squared,0.813879,    S.D. dependent var,,0.058022
+S.E. of regression,0.025032,    Akaike info criterion,,-4.525439
+Sum squared resid,0.258151,    Schwarz criterion,,-4.477081
+Log likelihood,948.5541,    Hannan-Quinn criter.,,-4.506320
+F-statistic,455.7773,    Durbin-Watson stat,,2.091472
+Prob(F-statistic),0.000000,,,
+,,,,
+Dependent Variable: ERUK19,,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 02:13,,,,
+Sample: 1980M10 2015M06,,,,
+Included observations: 417,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+C,0.002249,0.001259,1.786880,0.0747
+RMRF,1.047094,0.026383,39.68881,0.0000
+SMB,0.376112,0.038882,9.673192,0.0000
+UMD,-0.022265,0.032685,-0.681209,0.4961
+HML,-0.008975,0.043388,-0.206859,0.8362
+,,,,
+R-squared,0.806152,    Mean dependent var,,0.008086
+Adjusted R-squared,0.804270,    S.D. dependent var,,0.054219
+S.E. of regression,0.023987,    Akaike info criterion,,-4.610668
+Sum squared resid,0.237061,    Schwarz criterion,,-4.562309
+Log likelihood,966.3242,    Hannan-Quinn criter.,,-4.591549
+F-statistic,428.3429,    Durbin-Watson stat,,2.133893
+Prob(F-statistic),0.000000,,,
+,,,,
+Dependent Variable: ERUK2,,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 02:13,,,,
+Sample: 1980M10 2015M06,,,,
+Included observations: 417,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+C,0.000971,0.001163,0.835240,0.4041
+RMRF,0.778308,0.024377,31.92732,0.0000
+SMB,0.849273,0.035927,23.63895,0.0000
+UMD,-0.013853,0.030201,-0.458688,0.6467
+HML,0.235587,0.040091,5.876345,0.0000
+,,,,
+R-squared,0.802176,    Mean dependent var,,0.006958
+Adjusted R-squared,0.800255,    S.D. dependent var,,0.049592
+S.E. of regression,0.022164,    Akaike info criterion,,-4.768757
+Sum squared resid,0.202396,    Schwarz criterion,,-4.720399
+Log likelihood,999.2858,    Hannan-Quinn criter.,,-4.749638
+F-statistic,417.6646,    Durbin-Watson stat,,1.911107
+Prob(F-statistic),0.000000,,,
+,,,,
+Dependent Variable: ERUK20,,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 02:13,,,,
+Sample: 1980M10 2015M06,,,,
+Included observations: 417,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+C,0.002596,0.001593,1.630037,0.1039
+RMRF,1.167473,0.033389,34.96580,0.0000
+SMB,0.541306,0.049208,11.00042,0.0000
+UMD,0.054995,0.041365,1.329511,0.1844
+HML,-0.245248,0.054911,-4.466286,0.0000
+,,,,
+R-squared,0.770121,    Mean dependent var,,0.009349
+Adjusted R-squared,0.767889,    S.D. dependent var,,0.063011
+S.E. of regression,0.030358,    Akaike info criterion,,-4.139625
+Sum squared resid,0.379691,    Schwarz criterion,,-4.091266
+Log likelihood,868.1117,    Hannan-Quinn criter.,,-4.120506
+F-statistic,345.0623,    Durbin-Watson stat,,2.008157
+Prob(F-statistic),0.000000,,,
+,,,,
+Dependent Variable: ERUK21,,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 02:13,,,,
+Sample: 1980M10 2015M06,,,,
+Included observations: 417,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+C,7.28E-05,0.001864,0.039064,0.9689
+RMRF,1.050050,0.039068,26.87731,0.0000
+SMB,-0.059789,0.057578,-1.038412,0.2997
+UMD,-0.311448,0.048401,-6.434718,0.0000
+HML,0.114078,0.064251,1.775511,0.0766
+,,,,
+R-squared,0.681396,    Mean dependent var,,0.002825
+Adjusted R-squared,0.678303,    S.D. dependent var,,0.062627
+S.E. of regression,0.035521,    Akaike info criterion,,-3.825455
+Sum squared resid,0.519844,    Schwarz criterion,,-3.777097
+Log likelihood,802.6074,    Hannan-Quinn criter.,,-3.806336
+F-statistic,220.2851,    Durbin-Watson stat,,1.815514
+Prob(F-statistic),0.000000,,,
+,,,,
+Dependent Variable: ERUK22,,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 02:13,,,,
+Sample: 1980M10 2015M06,,,,
+Included observations: 417,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+C,-3.22E-05,0.001253,-0.025659,0.9795
+RMRF,0.971730,0.026270,36.99008,0.0000
+SMB,-0.067383,0.038716,-1.740456,0.0825
+UMD,-0.026790,0.032546,-0.823154,0.4109
+HML,0.228425,0.043203,5.287217,0.0000
+,,,,
+R-squared,0.782292,    Mean dependent var,,0.005403
+Adjusted R-squared,0.780178,    S.D. dependent var,,0.050943
+S.E. of regression,0.023885,    Akaike info criterion,,-4.619220
+Sum squared resid,0.235042,    Schwarz criterion,,-4.570861
+Log likelihood,968.1073,    Hannan-Quinn criter.,,-4.600101
+F-statistic,370.1103,    Durbin-Watson stat,,2.120624
+Prob(F-statistic),0.000000,,,
+,,,,
+Dependent Variable: ERUK23,,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 02:13,,,,
+Sample: 1980M10 2015M06,,,,
+Included observations: 417,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+C,0.000990,0.001161,0.852333,0.3945
+RMRF,0.860817,0.024341,35.36561,0.0000
+SMB,-0.252648,0.035872,-7.042977,0.0000
+UMD,-0.040521,0.030155,-1.343762,0.1798
+HML,-0.073438,0.040030,-1.834565,0.0673
+,,,,
+R-squared,0.764393,    Mean dependent var,,0.004501
+Adjusted R-squared,0.762106,    S.D. dependent var,,0.045373
+S.E. of regression,0.022131,    Akaike info criterion,,-4.771793
+Sum squared resid,0.201783,    Schwarz criterion,,-4.723434
+Log likelihood,999.9187,    Hannan-Quinn criter.,,-4.752674
+F-statistic,334.1689,    Durbin-Watson stat,,2.455306
+Prob(F-statistic),0.000000,,,
+,,,,
+Dependent Variable: ERUK24,,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 02:13,,,,
+Sample: 1980M10 2015M06,,,,
+Included observations: 417,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+C,0.000427,0.001260,0.339033,0.7348
+RMRF,0.965612,0.026406,36.56854,0.0000
+SMB,-0.219319,0.038916,-5.635737,0.0000
+UMD,0.109391,0.032713,3.343923,0.0009
+HML,-0.058914,0.043426,-1.356661,0.1756
+,,,,
+R-squared,0.769892,    Mean dependent var,,0.006037
+Adjusted R-squared,0.767658,    S.D. dependent var,,0.049807
+S.E. of regression,0.024008,    Akaike info criterion,,-4.608929
+Sum squared resid,0.237473,    Schwarz criterion,,-4.560571
+Log likelihood,965.9618,    Hannan-Quinn criter.,,-4.589810
+F-statistic,344.6152,    Durbin-Watson stat,,2.186904
+Prob(F-statistic),0.000000,,,
+,,,,
+Dependent Variable: ERUK25,,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 02:13,,,,
+Sample: 1980M10 2015M06,,,,
+Included observations: 417,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+C,0.003256,0.001776,1.833103,0.0675
+RMRF,1.039091,0.037230,27.90998,0.0000
+SMB,-0.098355,0.054869,-1.792555,0.0738
+UMD,-0.126765,0.046124,-2.748367,0.0063
+HML,-0.522413,0.061228,-8.532260,0.0000
+,,,,
+R-squared,0.678975,    Mean dependent var,,0.005736
+Adjusted R-squared,0.675858,    S.D. dependent var,,0.059455
+S.E. of regression,0.033850,    Akaike info criterion,,-3.921843
+Sum squared resid,0.472076,    Schwarz criterion,,-3.873484
+Log likelihood,822.7042,    Hannan-Quinn criter.,,-3.902724
+F-statistic,217.8472,    Durbin-Watson stat,,1.713146
+Prob(F-statistic),0.000000,,,
+,,,,
+Dependent Variable: ERUK3,,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 02:13,,,,
+Sample: 1980M10 2015M06,,,,
+Included observations: 417,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+C,0.002727,0.001326,2.056251,0.0404
+RMRF,0.780458,0.027803,28.07094,0.0000
+SMB,0.908237,0.040975,22.16545,0.0000
+UMD,-0.009883,0.034445,-0.286926,0.7743
+HML,0.216192,0.045724,4.728154,0.0000
+,,,,
+R-squared,0.765131,    Mean dependent var,,0.008796
+Adjusted R-squared,0.762851,    S.D. dependent var,,0.051909
+S.E. of regression,0.025279,    Akaike info criterion,,-4.505783
+Sum squared resid,0.263275,    Schwarz criterion,,-4.457425
+Log likelihood,944.4558,    Hannan-Quinn criter.,,-4.486665
+F-statistic,335.5419,    Durbin-Watson stat,,2.046848
+Prob(F-statistic),0.000000,,,
+,,,,
+Dependent Variable: ERUK4,,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 02:13,,,,
+Sample: 1980M10 2015M06,,,,
+Included observations: 417,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+C,0.003512,0.001306,2.688648,0.0075
+RMRF,0.787458,0.027383,28.75718,0.0000
+SMB,0.869265,0.040356,21.53977,0.0000
+UMD,0.024583,0.033924,0.724655,0.4691
+HML,0.110365,0.045034,2.450730,0.0147
+,,,,
+R-squared,0.761279,    Mean dependent var,,0.009568
+Adjusted R-squared,0.758961,    S.D. dependent var,,0.050711
+S.E. of regression,0.024897,    Akaike info criterion,,-4.536232
+Sum squared resid,0.255380,    Schwarz criterion,,-4.487873
+Log likelihood,950.8043,    Hannan-Quinn criter.,,-4.517113
+F-statistic,328.4661,    Durbin-Watson stat,,1.895625
+Prob(F-statistic),0.000000,,,
+,,,,
+Dependent Variable: ERUK5,,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 02:13,,,,
+Sample: 1980M10 2015M06,,,,
+Included observations: 417,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+C,0.002766,0.001319,2.097200,0.0366
+RMRF,0.848261,0.027641,30.68856,0.0000
+SMB,0.957786,0.040736,23.51177,0.0000
+UMD,0.059598,0.034244,1.740389,0.0825
+HML,-0.114240,0.045458,-2.513089,0.0123
+,,,,
+R-squared,0.786451,    Mean dependent var,,0.008931
+Adjusted R-squared,0.784378,    S.D. dependent var,,0.054122
+S.E. of regression,0.025131,    Akaike info criterion,,-4.517479
+Sum squared resid,0.260214,    Schwarz criterion,,-4.469120
+Log likelihood,946.8943,    Hannan-Quinn criter.,,-4.498360
+F-statistic,379.3246,    Durbin-Watson stat,,1.857694
+Prob(F-statistic),0.000000,,,
+,,,,
+Dependent Variable: ERUK6,,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 02:13,,,,
+Sample: 1980M10 2015M06,,,,
+Included observations: 417,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+C,-0.001498,0.001930,-0.776330,0.4380
+RMRF,1.009926,0.040451,24.96678,0.0000
+SMB,1.179562,0.059615,19.78627,0.0000
+UMD,-0.325014,0.050114,-6.485508,0.0000
+HML,0.343848,0.066525,5.168732,0.0000
+,,,,
+R-squared,0.753355,    Mean dependent var,,0.003532
+Adjusted R-squared,0.750961,    S.D. dependent var,,0.073698
+S.E. of regression,0.036778,    Akaike info criterion,,-3.755905
+Sum squared resid,0.557286,    Schwarz criterion,,-3.707547
+Log likelihood,788.1063,    Hannan-Quinn criter.,,-3.736786
+F-statistic,314.6049,    Durbin-Watson stat,,2.059924
+Prob(F-statistic),0.000000,,,
+,,,,
+Dependent Variable: ERUK7,,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 02:13,,,,
+Sample: 1980M10 2015M06,,,,
+Included observations: 417,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+C,0.000387,0.001591,0.243546,0.8077
+RMRF,0.934687,0.033349,28.02715,0.0000
+SMB,0.849404,0.049149,17.28211,0.0000
+UMD,0.004860,0.041316,0.117630,0.9064
+HML,0.100837,0.054846,1.838559,0.0667
+,,,,
+R-squared,0.729350,    Mean dependent var,,0.006966
+Adjusted R-squared,0.726723,    S.D. dependent var,,0.058003
+S.E. of regression,0.030322,    Akaike info criterion,,-4.142000
+Sum squared resid,0.378790,    Schwarz criterion,,-4.093642
+Log likelihood,868.6071,    Hannan-Quinn criter.,,-4.122882
+F-statistic,277.5660,    Durbin-Watson stat,,2.072111
+Prob(F-statistic),0.000000,,,
+,,,,
+Dependent Variable: ERUK8,,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 02:13,,,,
+Sample: 1980M10 2015M06,,,,
+Included observations: 417,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+C,0.000153,0.001388,0.110315,0.9122
+RMRF,0.919756,0.029102,31.60471,0.0000
+SMB,0.881734,0.042889,20.55829,0.0000
+UMD,0.043710,0.036054,1.212352,0.2261
+HML,0.206262,0.047860,4.309659,0.0000
+,,,,
+R-squared,0.779444,    Mean dependent var,,0.007401
+Adjusted R-squared,0.777303,    S.D. dependent var,,0.056069
+S.E. of regression,0.026460,    Akaike info criterion,,-4.414473
+Sum squared resid,0.288447,    Schwarz criterion,,-4.366115
+Log likelihood,925.4176,    Hannan-Quinn criter.,,-4.395354
+F-statistic,364.0014,    Durbin-Watson stat,,2.039751
+Prob(F-statistic),0.000000,,,
+,,,,
+Dependent Variable: ERUK9,,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 02:13,,,,
+Sample: 1980M10 2015M06,,,,
+Included observations: 417,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+C,0.001078,0.001416,0.761813,0.4466
+RMRF,0.904508,0.029673,30.48225,0.0000
+SMB,0.656309,0.043732,15.00766,0.0000
+UMD,-0.021531,0.036762,-0.585691,0.5584
+HML,0.170447,0.048800,3.492765,0.0005
+,,,,
+R-squared,0.746099,    Mean dependent var,,0.007156
+Adjusted R-squared,0.743634,    S.D. dependent var,,0.053284
+S.E. of regression,0.026979,    Akaike info criterion,,-4.375584
+Sum squared resid,0.299885,    Schwarz criterion,,-4.327226
+Log likelihood,917.3093,    Hannan-Quinn criter.,,-4.356465
+F-statistic,302.6695,    Durbin-Watson stat,,1.841926
+Prob(F-statistic),0.000000,,,
+,,,,
+

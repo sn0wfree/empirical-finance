@@ -1,0 +1,32 @@
+Null Hypothesis: ERUK9 has a unit root,,,,
+Exogenous: None,,,,
+"Lag Length: 0 (Automatic - based on SIC, maxlag=17)",,,,
+,,,,
+,,,t-Statistic,  Prob.*
+,,,,
+Augmented Dickey-Fuller test statistic,,,-16.62853, 0.0000
+Test critical values:,1% level,,-2.570533,
+,5% level,,-1.941587,
+,10% level,,-1.616188,
+,,,,
+*MacKinnon (1996) one-sided p-values.,,,,
+,,,,
+,,,,
+Augmented Dickey-Fuller Test Equation,,,,
+Dependent Variable: D(ERUK9),,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 18:07,,,,
+Sample (adjusted): 1980M11 2015M06,,,,
+Included observations: 416 after adjustments,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+ERUK9(-1),-0.799419,0.048075,-16.62853,0.0000
+,,,,
+R-squared,0.399862,    Mean dependent var,,-6.47E-05
+Adjusted R-squared,0.399862,    S.D. dependent var,,0.068050
+S.E. of regression,0.052718,    Akaike info criterion,,-3.045330
+Sum squared resid,1.153350,    Schwarz criterion,,-3.035641
+Log likelihood,634.4286,    Hannan-Quinn criter.,,-3.041499
+Durbin-Watson stat,1.985974,,,
+,,,,

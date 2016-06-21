@@ -1,0 +1,34 @@
+Null Hypothesis: ERUK3 has a unit root,,,,
+Exogenous: Constant,,,,
+"Lag Length: 0 (Automatic - based on SIC, maxlag=17)",,,,
+,,,,
+,,,t-Statistic,  Prob.*
+,,,,
+Augmented Dickey-Fuller test statistic,,,-15.81121, 0.0000
+Test critical values:,1% level,,-3.445852,
+,5% level,,-2.868268,
+,10% level,,-2.570419,
+,,,,
+*MacKinnon (1996) one-sided p-values.,,,,
+,,,,
+,,,,
+Augmented Dickey-Fuller Test Equation,,,,
+Dependent Variable: D(ERUK3),,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 18:07,,,,
+Sample (adjusted): 1980M11 2015M06,,,,
+Included observations: 416 after adjustments,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+ERUK3(-1),-0.753247,0.047640,-15.81121,0.0000
+C,0.006579,0.002508,2.623171,0.0090
+,,,,
+R-squared,0.376501,    Mean dependent var,,-9.54E-05
+Adjusted R-squared,0.374995,    S.D. dependent var,,0.063780
+S.E. of regression,0.050423,    Akaike info criterion,,-3.131958
+Sum squared resid,1.052570,    Schwarz criterion,,-3.112579
+Log likelihood,653.4472,    Hannan-Quinn criter.,,-3.124296
+F-statistic,249.9942,    Durbin-Watson stat,,2.005385
+Prob(F-statistic),0.000000,,,
+,,,,

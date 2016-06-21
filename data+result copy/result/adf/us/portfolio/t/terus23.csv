@@ -1,0 +1,35 @@
+Null Hypothesis: ERUS23 has a unit root,,,,
+"Exogenous: Constant, Linear Trend",,,,
+"Lag Length: 0 (Automatic - based on SIC, maxlag=17)",,,,
+,,,,
+,,,t-Statistic,  Prob.*
+,,,,
+Augmented Dickey-Fuller test statistic,,,-19.11663, 0.0000
+Test critical values:,1% level,,-3.980272,
+,5% level,,-3.420662,
+,10% level,,-3.133035,
+,,,,
+*MacKinnon (1996) one-sided p-values.,,,,
+,,,,
+,,,,
+Augmented Dickey-Fuller Test Equation,,,,
+Dependent Variable: D(ERUS23),,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 18:01,,,,
+Sample (adjusted): 1980M11 2015M06,,,,
+Included observations: 416 after adjustments,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+ERUS23(-1),-0.938718,0.049105,-19.11663,0.0000
+C,0.438113,0.446707,0.980762,0.3273
+@TREND(1980M10),0.000540,0.001854,0.291224,0.7710
+,,,,
+R-squared,0.469456,    Mean dependent var,,-0.015312
+Adjusted R-squared,0.466886,    S.D. dependent var,,6.219037
+S.E. of regression,4.540807,    Akaike info criterion,,5.871272
+Sum squared resid,8515.616,    Schwarz criterion,,5.900339
+Log likelihood,-1218.225,    Hannan-Quinn criter.,,5.882765
+F-statistic,182.7229,    Durbin-Watson stat,,1.971404
+Prob(F-statistic),0.000000,,,
+,,,,

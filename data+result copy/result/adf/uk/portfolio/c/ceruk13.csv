@@ -1,0 +1,35 @@
+Null Hypothesis: ERUK13 has a unit root,,,,
+Exogenous: Constant,,,,
+"Lag Length: 1 (Automatic - based on SIC, maxlag=17)",,,,
+,,,,
+,,,t-Statistic,  Prob.*
+,,,,
+Augmented Dickey-Fuller test statistic,,,-15.67542, 0.0000
+Test critical values:,1% level,,-3.445890,
+,5% level,,-2.868285,
+,10% level,,-2.570428,
+,,,,
+*MacKinnon (1996) one-sided p-values.,,,,
+,,,,
+,,,,
+Augmented Dickey-Fuller Test Equation,,,,
+Dependent Variable: D(ERUK13),,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 18:07,,,,
+Sample (adjusted): 1980M12 2015M06,,,,
+Included observations: 415 after adjustments,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+ERUK13(-1),-1.038703,0.066263,-15.67542,0.0000
+D(ERUK13(-1)),0.129124,0.048883,2.641483,0.0086
+C,0.008231,0.002740,3.003884,0.0028
+,,,,
+R-squared,0.468850,    Mean dependent var,,-0.000112
+Adjusted R-squared,0.466271,    S.D. dependent var,,0.074956
+S.E. of regression,0.054761,    Akaike info criterion,,-2.964488
+Sum squared resid,1.235475,    Schwarz criterion,,-2.935368
+Log likelihood,618.1313,    Hannan-Quinn criter.,,-2.952973
+F-statistic,181.8376,    Durbin-Watson stat,,1.991988
+Prob(F-statistic),0.000000,,,
+,,,,

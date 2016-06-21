@@ -1,0 +1,34 @@
+Null Hypothesis: ERUK21 has a unit root,,,,
+Exogenous: Constant,,,,
+"Lag Length: 0 (Automatic - based on SIC, maxlag=17)",,,,
+,,,,
+,,,t-Statistic,  Prob.*
+,,,,
+Augmented Dickey-Fuller test statistic,,,-19.92647, 0.0000
+Test critical values:,1% level,,-3.445852,
+,5% level,,-2.868268,
+,10% level,,-2.570419,
+,,,,
+*MacKinnon (1996) one-sided p-values.,,,,
+,,,,
+,,,,
+Augmented Dickey-Fuller Test Equation,,,,
+Dependent Variable: D(ERUK21),,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 18:07,,,,
+Sample (adjusted): 1980M11 2015M06,,,,
+Included observations: 416 after adjustments,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+ERUK21(-1),-0.979142,0.049138,-19.92647,0.0000
+C,0.002664,0.003079,0.865149,0.3875
+,,,,
+R-squared,0.489560,    Mean dependent var,,-0.000202
+Adjusted R-squared,0.488327,    S.D. dependent var,,0.087698
+S.E. of regression,0.062732,    Akaike info criterion,,-2.695108
+Sum squared resid,1.629194,    Schwarz criterion,,-2.675729
+Log likelihood,562.5824,    Hannan-Quinn criter.,,-2.687445
+F-statistic,397.0643,    Durbin-Watson stat,,1.994167
+Prob(F-statistic),0.000000,,,
+,,,,

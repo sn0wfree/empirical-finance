@@ -1,0 +1,22 @@
+Dependent Variable: ERUK4,,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 02:13,,,,
+Sample: 1980M10 2015M06,,,,
+Included observations: 417,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+C,0.003512,0.001306,2.688648,0.0075
+RMRF,0.787458,0.027383,28.75718,0.0000
+SMB,0.869265,0.040356,21.53977,0.0000
+UMD,0.024583,0.033924,0.724655,0.4691
+HML,0.110365,0.045034,2.450730,0.0147
+,,,,
+R-squared,0.761279,    Mean dependent var,,0.009568
+Adjusted R-squared,0.758961,    S.D. dependent var,,0.050711
+S.E. of regression,0.024897,    Akaike info criterion,,-4.536232
+Sum squared resid,0.255380,    Schwarz criterion,,-4.487873
+Log likelihood,950.8043,    Hannan-Quinn criter.,,-4.517113
+F-statistic,328.4661,    Durbin-Watson stat,,1.895625
+Prob(F-statistic),0.000000,,,
+,,,,

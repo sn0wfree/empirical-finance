@@ -1,0 +1,33 @@
+Breusch-Godfrey Serial Correlation LM Test:,,,,
+,,,,
+F-statistic,2.057046,"    Prob. F(4,409)",,0.0857
+Obs*R-squared,8.223684,    Prob. Chi-Square(4),,0.0837
+,,,,
+,,,,
+Test Equation:,,,,
+Dependent Variable: RESID,,,,
+Method: Least Squares,,,,
+Date: 04/26/16   Time: 16:13,,,,
+Sample: 1980M10 2015M06,,,,
+Included observations: 417,,,,
+Presample missing value lagged residuals set to zero.,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+C,0.001277,0.074189,0.017210,0.9863
+RMRF,-0.001071,0.017584,-0.060889,0.9515
+SMB,0.007511,0.025871,0.290333,0.7717
+HML,-0.006774,0.025949,-0.261067,0.7942
+RESID(-1),0.063619,0.049471,1.285977,0.1992
+RESID(-2),0.064116,0.049800,1.287459,0.1987
+RESID(-3),-0.014198,0.049696,-0.285702,0.7753
+RESID(-4),0.104080,0.049496,2.102802,0.0361
+,,,,
+R-squared,0.019721,    Mean dependent var,,4.89E-16
+Adjusted R-squared,0.002944,    S.D. dependent var,,1.482161
+S.E. of regression,1.479977,    Akaike info criterion,,3.640929
+Sum squared resid,895.8463,    Schwarz criterion,,3.718302
+Log likelihood,-751.1337,    Hannan-Quinn criter.,,3.671519
+F-statistic,1.175455,    Durbin-Watson stat,,1.994449
+Prob(F-statistic),0.315617,,,
+,,,,

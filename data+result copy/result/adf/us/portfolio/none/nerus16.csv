@@ -1,0 +1,32 @@
+Null Hypothesis: ERUS16 has a unit root,,,,
+Exogenous: None,,,,
+"Lag Length: 0 (Automatic - based on SIC, maxlag=17)",,,,
+,,,,
+,,,t-Statistic,  Prob.*
+,,,,
+Augmented Dickey-Fuller test statistic,,,-18.71799, 0.0000
+Test critical values:,1% level,,-2.570533,
+,5% level,,-1.941587,
+,10% level,,-1.616188,
+,,,,
+*MacKinnon (1996) one-sided p-values.,,,,
+,,,,
+,,,,
+Augmented Dickey-Fuller Test Equation,,,,
+Dependent Variable: D(ERUS16),,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 18:01,,,,
+Sample (adjusted): 1980M11 2015M06,,,,
+Included observations: 416 after adjustments,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+ERUS16(-1),-0.915514,0.048911,-18.71799,0.0000
+,,,,
+R-squared,0.457774,    Mean dependent var,,-0.005505
+Adjusted R-squared,0.457774,    S.D. dependent var,,8.092504
+S.E. of regression,5.958998,    Akaike info criterion,,6.410083
+Sum squared resid,14736.51,    Schwarz criterion,,6.419772
+Log likelihood,-1332.297,    Hannan-Quinn criter.,,6.413914
+Durbin-Watson stat,1.990085,,,
+,,,,

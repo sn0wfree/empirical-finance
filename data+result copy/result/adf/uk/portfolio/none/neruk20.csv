@@ -1,0 +1,32 @@
+Null Hypothesis: ERUK20 has a unit root,,,,
+Exogenous: None,,,,
+"Lag Length: 0 (Automatic - based on SIC, maxlag=17)",,,,
+,,,,
+,,,t-Statistic,  Prob.*
+,,,,
+Augmented Dickey-Fuller test statistic,,,-18.77871, 0.0000
+Test critical values:,1% level,,-2.570533,
+,5% level,,-1.941587,
+,10% level,,-1.616188,
+,,,,
+*MacKinnon (1996) one-sided p-values.,,,,
+,,,,
+,,,,
+Augmented Dickey-Fuller Test Equation,,,,
+Dependent Variable: D(ERUK20),,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 18:07,,,,
+Sample (adjusted): 1980M11 2015M06,,,,
+Included observations: 416 after adjustments,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+ERUK20(-1),-0.919283,0.048953,-18.77871,0.0000
+,,,,
+R-squared,0.459381,    Mean dependent var,,-0.000115
+Adjusted R-squared,0.459381,    S.D. dependent var,,0.086460
+S.E. of regression,0.063571,    Akaike info criterion,,-2.670917
+Sum squared resid,1.677130,    Schwarz criterion,,-2.661227
+Log likelihood,556.5506,    Hannan-Quinn criter.,,-2.667086
+Durbin-Watson stat,1.995729,,,
+,,,,

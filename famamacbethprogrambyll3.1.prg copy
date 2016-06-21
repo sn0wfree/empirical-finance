@@ -1,0 +1,77 @@
+'if you set each portfolio as pi(i=1...n),and each factors"
+'should have portfolios return and factors
+'need factors:rmrf smb hml umd rf
+'need portfolio:p1 p2 ... pn
+'-----------------------------------------------------------------------------------------------------
+group factor rmrf smb umd hml
+group prt
+matrix(417,27) portfolios
+matrix (417,4) facrors
+matrix (4,27) beta
+matrix (4,417) gamma
+genr f1=rmrf
+genr f2=smb
+genr f3=umd
+genr f4=hml
+for !j=1 to 4
+    colplace(facrors,f{!j},{!j})
+next
+'-----------------------------------------------------------------------------------------------------
+'start 1st step
+For !i=1 to 27
+    genr  excessr{!i}=p{!i}-rf
+     coef(4) be
+   prt.add excessr{!i}
+'equation eq1st{!i}   
+     ls excessr{!i}=c(1)+ be(1)*rmrf+be(2)*smb+be(3)*umd+be(4)*hml
+        colplace(beta,be,{!i})
+    colplace(portfolios,excessr{!i},{!i})
+next
+'1st step completed
+'----------------------------------------------------------------------------------------------------
+matrix bhat=@transpose(beta)
+'transpose and split data base on time for cross-section regression
+group portfolio
+group gg
+for !i=1 to 417 
+for !k=1 to 4
+for !j=1 to 27
+series t{!i}
+portfolio.add  t{!i}
+t{!i}({!j})=portfolios({!i},{!j})
+series b{!k}
+b{!k}({!j})=beta({!k},{!j})
+gg.add  b{!k}
+next
+next
+next
+'-----------------------------------------------------------------------------------------------------
+'above is the old method, i just want remind me to do work more efficiently
+series er
+'-----------------------------------------------------------------------------------------------------
+'2nd step start
+for !i=1 to 417
+er({!i})=@mean(@rowextract(portfolios,{!i}))
+ coef(4) g
+'equation eq2nd{!i}.
+   ls t{!i}=c(1)+g(1)*b1+g(2)*b2+g(3)*b3+g(4)*b4
+colplace(gamma,g,{!i})
+next
+group bhat b1 b2 b3 b4
+portfolio.makesystem(name=reg2) c bhat
+reg2.ls
+'--------------------------------------------------------------------------------------------------------
+'2nd step finish
+'-----------------------------------------------------------------------------------------------------
+'split gamma
+matrix tgamma=@transpose(gamma)
+series egamma
+for !i=1 to 4
+series gamma{!i}
+for !j=1 to 417
+gamma{!i}({!j})=gamma({!i},{!j})
+egamma({!i})=@mean(@rowextract(gamma,{!i}))
+next
+next
+'-----------------------------------------------------------------------------------------------------
+'test gamma

@@ -1,0 +1,34 @@
+Null Hypothesis: ERUS21 has a unit root,,,,
+Exogenous: Constant,,,,
+"Lag Length: 0 (Automatic - based on SIC, maxlag=17)",,,,
+,,,,
+,,,t-Statistic,  Prob.*
+,,,,
+Augmented Dickey-Fuller test statistic,,,-19.12677, 0.0000
+Test critical values:,1% level,,-3.445852,
+,5% level,,-2.868268,
+,10% level,,-2.570419,
+,,,,
+*MacKinnon (1996) one-sided p-values.,,,,
+,,,,
+,,,,
+Augmented Dickey-Fuller Test Equation,,,,
+Dependent Variable: D(ERUS21),,,,
+Method: Least Squares,,,,
+Date: 04/25/16   Time: 18:01,,,,
+Sample (adjusted): 1980M11 2015M06,,,,
+Included observations: 416 after adjustments,,,,
+,,,,
+Variable,Coefficient,Std. Error,t-Statistic,Prob.  
+,,,,
+ERUS21(-1),-0.938255,0.049055,-19.12677,0.0000
+C,0.609345,0.232378,2.622216,0.0091
+,,,,
+R-squared,0.469117,    Mean dependent var,,-0.000409
+Adjusted R-squared,0.467835,    S.D. dependent var,,6.435645
+S.E. of regression,4.694781,    Akaike info criterion,,5.935576
+Sum squared resid,9124.959,    Schwarz criterion,,5.954954
+Log likelihood,-1232.600,    Hannan-Quinn criter.,,5.943238
+F-statistic,365.8332,    Durbin-Watson stat,,1.985091
+Prob(F-statistic),0.000000,,,
+,,,,
